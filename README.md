@@ -2,4 +2,4 @@
 
 Shrimp software for Niphargus temperature loggers v1.8
 
-Works with All Niphargus versions
+Works with all Niphargus versions

@@ -1,0 +1,22 @@
+﻿'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Users\yvanbrabant\Documents\Visual Studio 2010\Projects\Shrimp_Source21122014\Debug\DataTrimming.exe', Symbols loaded.
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization\v4.0_4.0.0.0__31bf3856ad364e35\System.Windows.Forms.DataVisualization.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'
+'DataTrimming.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'
+A first chance exception of type 'System.TimeoutException' occurred in System.dll
+A first chance exception of type 'System.TimeoutException' occurred in System.dll
+The thread '<No Name>' (0x1c4c) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1b2c) has exited with code 0 (0x0).
+A first chance exception of type 'System.TimeoutException' occurred in System.dll
+The thread '<No Name>' (0x1f3c) has exited with code 0 (0x0).
+The thread '<No Name>' (0xf4c) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1920) has exited with code 0 (0x0).
+The thread '<No Name>' (0x820) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1d34) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1ba8) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1eb8) has exited with code 0 (0x0).
+The program '[7976] DataTrimming.exe: Managed (v4.0.30319)' has exited with code 0 (0x0).

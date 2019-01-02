@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: DataTrimming, Configuration: Debug Win32 ------
+1>  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+1>C:\Users\yvanbrabant\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp : fatal error C1083: Cannot open compiler generated file: 'Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj': Permission denied
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
